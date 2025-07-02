@@ -1,0 +1,5 @@
+data={
+    "url1":"https://rahulshettyacademy.com/seleniumPractise/#/",
+}
+
+search=(By.XPATH,"//input[@class='search-keyword']")
