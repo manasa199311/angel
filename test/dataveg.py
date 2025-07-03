@@ -1,5 +1,6 @@
 dataveg={
     "url1":"https://rahulshettyacademy.com/seleniumPractise/#/",
     "vegNames":"//div[@class='products']/div/h4",
-    "etc":"//div"
+    "etc":"//div",
+    "value":12345
 }
